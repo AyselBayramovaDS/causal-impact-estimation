@@ -37,7 +37,7 @@ The effect is large and grows over time, but the placebo test is suggestive rath
 |---|---|
 | `californiya.ipynb` | Analysis notebook (data checks, EDA, method selection, synthetic control, ATT, placebo test, interpretation) |
 | `note.md` | Documentation: chosen method, assumption checks, final ATT estimate, interpretation |
-| `data.csv` | Dataset |(https://github.com/Matt2371/Proposition99)
+| `data.csv` | Dataset (https://github.com/Matt2371/Proposition99) |
 | `README.md` | This file |
 
 ## Notebook outline
